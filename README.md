@@ -1,6 +1,9 @@
 ﻿
 ![tt](logo-mvp-mvp.png)
 
+<p align="center">
+  <img src="logo-mvp-mvp.png">
+</p>
 # Illustration  Modèle de Conception Android MVP
 
 Ceci est un projet Android illsutrant :
