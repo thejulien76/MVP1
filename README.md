@@ -1,68 +1,75 @@
-﻿
-![tt](logo-mvp-mvp.png)
-
-<p align="center">
+﻿<p align="center">
   <img src="logo-mvp-mvp.png">
 </p>
-# Illustration  Modèle de Conception Android MVP
 
-Ceci est un projet Android illsutrant :
+<p align="center">
+  Ce dépôt contient le code source d'une application Android au format 
+  <strong><a href="https://en.wikipedia.org/wiki/Minimum_viable_product">Minimum Viable Product (MVP)</a></strong>
+illustrant le patron de comception  <strong><a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter">Model View Presenter (MVP)</a></strong>.
+</p>
 
-Pourquoi avons-nous besoin de l’application blanche ? 
-Diffuser les bonnes pratiques. 
-Capitaliser les connaissances. 
-Faciliter l’apprentissage et la montée en compétence des développeurs/concepteurs. 
-Homogénéisation de l’implémentation (exemple : Dagger 2 et l’injection de dépendances) 
 
-Pour définir et présenter l’architecture logicielle commune aux applications SPOT Mobiles et ainsi préparer la mise en place de composants technico fonctionnels communs et réutilisables. 
-Pour cela elle doit illustrer les sujets suivants : 
-A - Conception 
-A.2 Modèle de conception 
-A.3 Modélisation 
-B - Implémentation 
-B.1 Schéma Directeur : Une pile logicielle unifiée 
-B.2 Initialiser son projet Android SPOT 
-B.3 Test unitaires 
-B.4 Conventions de nommage 
-C - Test 
-C.3 Automatisation : Usine logicielle 
-D - Intégration Continue 
-D.1 Git dans l’usine Logicielle 
-D.2 Build Android 
-D.3 Configurer son projet pour la PIC 
-G - Sécurité 
-
- Basé sur le modèle  d'architecture logicelle en MVP et utilise Dagger2, RxJava2, Retrofit2, Room.
+Utilise Dagger2, RxJava2, Retrofit2, Room.
 
 > Ceci n'est pas un starter kit.
 
-Insérer captures de l'applications de open data sncf
+Insérer captures de l'applications + open data sncf
+
+# Table des matières
+
+  * [Pourquoi avons-nous réaliser cette application](#Pourquoi-avons-nous-réalisé-cette-application)
+  * [Installation](#installation)
+     * [Contributeurs](#Contributeurs)
+     * [Pile Logicielle](#Pile-Logicielle)
+  * [Getting Started](#Getting-Started)
+     * [Installation](#Installation)
+     * [Lancer les tests](#Lancer-les-tests)
+
+Illustration  Modèle de Conception Android MVP
+
+Ceci est un application démonstration du patron de conception logiciel  Model Vue Presenter
+
+
+## Pourquoi avons-nous réalisé cette application
+Diffuser les bonnes pratiques. 
+
+Capitaliser les connaissances. 
+
+Faciliter l’apprentissage et la montée en compétence des développeurs/concepteurs. 
+
+Homogénéisation de l’implémentation.
+
+
+Pour définir et présenter l’architecture logicielle commune aux applications SPOT Mobiles et ainsi préparer la mise en place de composants technico fonctionnels communs et réutilisables. 
+
+Modèle de conception 
+
+Implémentation 
+--> Schéma Directeur : Une pile logicielle unifiée 
+
+Initialiser son projet Android 
+
+Test unitaires 
+
+Conventions de nommage 
+
+Test 
+
+Automatisation : Usine logicielle 
+
+Intégration Continue 
+
+Git dans l’usine Logicielle 
+
+Build Android 
+
+Configurer son projet pour la PIC 
+
+
+ 
 
 
 
-## Getting Started
-
-Ces instructions vous permettront d'obtenir une copie du projet opérationnel sur votre machine locale à des fins d'apprentissage, de développement et de test. Voir déploiement pour les notes sur la façon de déployer le projet sur un système actif.
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 
 #MVP #PackageByFeatures #Dagger2 #Retrofit #RxJava2 
@@ -76,7 +83,7 @@ End with an example of getting some data out of the system or using it for a lit
 | XML| XX | 999
 | Total | XX | 666
 
-## Dépendances
+## Pile Logicielle
 //TODO à compléter
 
  - Retrofit2
@@ -108,6 +115,40 @@ End with an example of getting some data out of the system or using it for a lit
 ### Contributeur extérieur
 
  - Poulain Thomas
+ 
+ 
+# Getting Started
+
+Ces instructions vous permettront d'obtenir une copie du projet opérationnel sur votre machine locale à des fins d'apprentissage, de développement et de test. Voir déploiement pour les notes sur la façon de déployer le projet sur un système actif.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+
+### Installation
+
+A step by step series of examples that tell you have to get a development env running
+
+Say what the step will be
+
+```
+Give the example
+```
+
+And repeat
+
+```
+until finished
+```
+
+End with an example of getting some data out of the system or using it for a little demo
+
+
+## Lancer les tests
+
+Décrire comment lancer les tests
+
+### Propos des tests
+
+Décrire objectif des différents tests
 
 ## Sources
 
