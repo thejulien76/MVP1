@@ -5,7 +5,7 @@
 <p align="center">
   Ce dépôt contient le code source d'une application Android au format 
   <strong><a href="https://en.wikipedia.org/wiki/Minimum_viable_product">Minimum Viable Product (MVP)</a></strong>
-illustrant le patron de comception  <strong><a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter">Model View Presenter (MVP)</a></strong>.
+illustrant le patron de conception  <strong><a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter">Model View Presenter (MVP)</a></strong>.
 </p>
 
 
@@ -17,7 +17,9 @@ Insérer captures de l'applications + open data sncf
 
 # Table des matières
 
-  * [Pourquoi avons-nous réaliser cette application](#Pourquoi-avons-nous-réalisé-cette-application)
+  * [Pourquoi cette application](#Pourquoi-cette-application)
+     * [Injection de dependance](#Injection-de-dependance)
+     * [Qu est ce que l injection de dépendance](#Qu-est-ce que l injection de dépendance ?)
   * [Installation](#installation)
      * [Contributeurs](#Contributeurs)
      * [Pile Logicielle](#Pile-Logicielle)
@@ -30,7 +32,7 @@ Illustration  Modèle de Conception Android MVP
 Ceci est un application démonstration du patron de conception logiciel  Model Vue Presenter
 
 
-## Pourquoi avons-nous réalisé cette application
+## Pourquoi cette application
 Diffuser les bonnes pratiques. 
 
 Capitaliser les connaissances. 
