@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img src="logo-mvp-mvp.png">
+  <img src="./docs/images/logo-mvp-mvp.png">
 </p>
 
 <p align="center">
@@ -14,6 +14,9 @@ Utilise Dagger2, RxJava2, Retrofit2, Room.
 > Ceci n'est pas un starter kit.
 
 Insérer captures de l'applications + open data sncf
+ <img src="./docs/images/Screenshot_01.png"> <img src="./docs/images/Screenshot_02.png"> <img src="./docs/images/Screenshot_03.png"> <img src="./docs/images/Screenshot_04.png">
+
+
 
 # Table des matières
 
