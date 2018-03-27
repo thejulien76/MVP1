@@ -1,15 +1,4 @@
-﻿<style media="screen" type="text/css">
-ul {
-  white-space: nowrap;
-}
-
-ul, li {
-  list-style: none;
-  display: inline;
-}
-
-</style>
-
+﻿
 <p align="center">
   <img src="./docs/images/logo-mvp-mvp.png">
 </p>
@@ -26,12 +15,12 @@ Utilise Dagger2, RxJava2, Retrofit2, Room.
 > Ceci n'est pas un starter kit.
 
 Insérer captures de l'applications + open data sncf
-<ul>
-    <li><img src="./docs/images/Screenshot_01.png"></li>
-    <li><img src="./docs/images/Screenshot_02.png"></li>
-    <li><img src="./docs/images/Screenshot_03.png"></li>
-    <li><img src="./docs/images/Screenshot_04.png"> </li>
-</ul>
+<tr>
+    <td><img src="./docs/images/Screenshot_01.png"></td>
+    <td><img src="./docs/images/Screenshot_02.png"></td>
+    <td><img src="./docs/images/Screenshot_03.png"></td>
+    <td><img src="./docs/images/Screenshot_04.png"></td>
+</tr>
 
 
 # Table des matières
