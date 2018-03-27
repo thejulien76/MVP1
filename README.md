@@ -15,13 +15,14 @@ Utilise Dagger2, RxJava2, Retrofit2, Room.
 > Ceci n'est pas un starter kit.
 
 Insérer captures de l'applications + open data sncf
+<TABLE>
 <tr>
-    <td><img src="./docs/images/Screenshot_01.png"></td>
-    <td><img src="./docs/images/Screenshot_02.png"></td>
-    <td><img src="./docs/images/Screenshot_03.png"></td>
-    <td><img src="./docs/images/Screenshot_04.png"></td>
+    <td width=25% ><img src="./docs/images/Screenshot_01.png"></td>
+    <td width=25% ><img src="./docs/images/Screenshot_02.png"></td>
+    <td width=25% ><img src="./docs/images/Screenshot_03.png"></td>
+    <td width=25% ><img src="./docs/images/Screenshot_04.png"></td>
 </tr>
-
+</TABLE>
 
 # Table des matières
 
