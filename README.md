@@ -1,4 +1,16 @@
-﻿<p align="center">
+﻿<style media="screen" type="text/css">
+ul {
+  white-space: nowrap;
+}
+
+ul, li {
+  list-style: none;
+  display: inline;
+}
+
+</style>
+
+<p align="center">
   <img src="./docs/images/logo-mvp-mvp.png">
 </p>
 
